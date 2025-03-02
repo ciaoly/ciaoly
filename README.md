@@ -1,10 +1,10 @@
 ## Ciao 👋
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=ciaoly&show_icons=true&bg_color=DEG,22c1c3ff,fdbb2dff&count_private=true&rank_icon=github&text_color=ffffffff&title_color=ffffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaoly&layout=donut&langs_count=8&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ciaoly&show_icons=true&bg_color=DEG,22c1c3ff,fdbb2dff&count_private=true&rank_icon=github&text_color=ffffffff&title_color=ffffffff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciaoly&layout=compact&langs_count=8&theme=transparent" alt="Top Langs" />
+</a>
 
 <!--
 **ciaoly/ciaoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
